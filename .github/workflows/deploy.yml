@@ -45,4 +45,3 @@ jobs:
         file: ./admin/Dockerfileadmin
         push: true
         tags: vishalpenti/admin:latest
-
